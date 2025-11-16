@@ -3,7 +3,13 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yksanjo/cloud-finops?style=social)](https://github.com/yksanjo/cloud-finops)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/yksanjo/cloud-finops)
+[![GitHub forks](https://img.shields.io/github/forks/yksanjo/cloud-finops.svg)](https://github.com/yksanjo/cloud-finops/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/yksanjo/cloud-finops.svg)](https://github.com/yksanjo/cloud-finops/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/cloud-finops.svg)](https://github.com/yksanjo/cloud-finops/commits/main)
+
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com)
 
 A comprehensive Python tool for intelligent cloud cost and performance optimization across AWS, Azure, and GCP. This script actively monitors cloud usage, identifies unused resources, suggests optimizations, and can automatically execute cost-saving actions.
 
