@@ -1,5 +1,8 @@
 # Cloud FinOps Optimizer
 
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yksanjo/cloud-finops?style=social)](https://github.com/yksanjo/cloud-finops)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/yksanjo/cloud-finops)
 
 A comprehensive Python tool for intelligent cloud cost and performance optimization across AWS, Azure, and GCP. This script actively monitors cloud usage, identifies unused resources, suggests optimizations, and can automatically execute cost-saving actions.
